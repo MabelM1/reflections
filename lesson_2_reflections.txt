@@ -5,3 +5,9 @@ You are letting git know that this is the location where the files that will be 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The working directory is where you have all files you are working on. The staging area is where you add files to be added to the repository later. The repository has files you have committed.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+In the staging area you will see exactly what files you want to select.
+
+
