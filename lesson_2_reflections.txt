@@ -10,4 +10,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 In the staging area you will see exactly what files you want to select.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
+Branches are helpful when you what to try new things but dont want to interfere with the good work that you have. You can alsko keep all similar updates together.
